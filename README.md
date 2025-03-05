@@ -68,5 +68,5 @@ pipwin install pyaudio
 This project is open-source under the **MIT License**.
 
 ## Author
-Developed by **Your Name** – [GitHub Profile](https://github.com/your-username)
+Developed by **Umang Yadav** – [GitHub Profile](https://github.com/umang-algo/)
 
