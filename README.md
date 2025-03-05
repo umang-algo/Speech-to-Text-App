@@ -13,8 +13,9 @@ This is a **real-time speech-to-text** web application built with **Streamlit** 
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+
+git clone https://github.com/umang-algo/Speech-to-Text-App.git
+cd Speech-to-Text-App
 ```
 
 ### 2. Install Dependencies
